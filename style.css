@@ -37,11 +37,11 @@ a {
     color: #e81c4f;
   }
 
-  body {
+body {
     color: #566b78;
   }
   
-  code,
+code,
   pre {
     background: #f5f7f9;
     border-bottom: 1px solid #d8dee9;
@@ -69,8 +69,7 @@ header {
     text-align: center;
   }
 
-
-  header img {
+header img {
     display: inline-block;
     height: 120px;
     vertical-align: top;
